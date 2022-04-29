@@ -1,0 +1,2 @@
+# Library-Book-Management-System
+Created it using SQLite and tkinter, I created a database connection and then created a table and def to (read table, add to table, remove from table, search from table) and then in Database GUI interface, i defined to (list books, search book, add, issue and delete).  And now using tkinter in gui i have to root title, create widgets (title, author, year, isbn). At last I have to loop gui (using – root.mainloop())
